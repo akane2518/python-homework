@@ -1,0 +1,4 @@
+ PyRamen Financial Analysis
+---------------------
+Sales list Objects: 74124
+Report: ['black sesame creme brulee', 74124, 1264592, 590806, 2.1404521958138543]
